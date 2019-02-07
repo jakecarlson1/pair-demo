@@ -36,7 +36,6 @@ private:
 template <class T, class U>
 Pair<T, U>::Pair() {}
 
-
 // full constructor - initializes first and second on construction
 template <class T, class U>
 Pair<T, U>::Pair(T to_be_first, U to_be_second):
